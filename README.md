@@ -69,4 +69,3 @@ Future iterations should focus on **sustaining engagement over time**, refining 
 
 ### Final Decision
 Deploy the **Big Header Sidebar** hint variant and continue testing for further improvements while monitoring user engagement over time.
-"""
