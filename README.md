@@ -1,5 +1,7 @@
 # A/B Testing Summary Report
 
+---
+
 ## 1. Objective
 The goal of this A/B test was to determine if displaying different hint variations in the Opera browser increased user engagement with the new feature "m." The analysis evaluated the effectiveness of four test groups against a control group that did not receive any hint.
 
